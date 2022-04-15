@@ -22,69 +22,69 @@
   margin-left: 0;
 }
 
-.dibiz-nav .navbar .navbar-brand {
+.digitily-nav .navbar .navbar-brand {
   margin-right: 0;
 }
 
-.dibiz-nav .navbar .navbar-nav {
+.digitily-nav .navbar .navbar-nav {
   margin-right: auto;
   margin-left: 0;
 }
 
-.dibiz-nav .navbar .navbar-nav .nav-item:first-child {
+.digitily-nav .navbar .navbar-nav .nav-item:first-child {
   margin-right: 0;
   margin-left: 14px;
 }
 
-.dibiz-nav .navbar .navbar-nav .nav-item:last-child {
+.digitily-nav .navbar .navbar-nav .nav-item:last-child {
   margin-left: 0;
   margin-right: 14px;
 }
 
-.dibiz-nav .navbar .navbar-nav .nav-item .dropdown-menu {
+.digitily-nav .navbar .navbar-nav .nav-item .dropdown-menu {
   right: 0;
   left: auto;
   text-align: right;
 }
 
-.dibiz-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
+.digitily-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
   right: -250px;
   left: auto;
 }
 
-.dibiz-nav .navbar .navbar-nav .nav-item .dropdown-menu li a i {
+.digitily-nav .navbar .navbar-nav .nav-item .dropdown-menu li a i {
   left: 15px;
   right: auto;
 }
 
-.dibiz-nav .navbar .others-option {
+.digitily-nav .navbar .others-option {
   margin-right: 30px;
   margin-left: 0;
 }
 
-.dibiz-nav .navbar .others-option .option-item {
+.digitily-nav .navbar .others-option .option-item {
   margin-right: 30px;
   margin-left: 0;
   padding-right: 15px;
   padding-left: 0;
 }
 
-.dibiz-nav .navbar .others-option .option-item:first-child {
+.digitily-nav .navbar .others-option .option-item:first-child {
   margin-right: 0;
   padding-right: 0;
 }
 
-.dibiz-nav .navbar .others-option .option-item::before {
+.digitily-nav .navbar .others-option .option-item::before {
   right: -2px;
   left: auto;
 }
 
-.dibiz-nav .navbar .others-option .option-item .search-box .input-search {
+.digitily-nav .navbar .others-option .option-item .search-box .input-search {
   padding-right: 15px;
   padding-left: 0;
 }
 
-.dibiz-nav .navbar .others-option .option-item .search-box button {
+.digitily-nav .navbar .others-option .option-item .search-box button {
   left: 0;
   right: auto;
 }
@@ -744,32 +744,32 @@
   text-align: right !important;
 }
 
-.dibiz-grid-sorting .ordering {
+.digitily-grid-sorting .ordering {
   text-align: left;
 }
 
-.dibiz-grid-sorting .ordering .nice-select {
+.digitily-grid-sorting .ordering .nice-select {
   text-align: right !important;
   padding: 0 12px 0 12px;
 }
 
-.dibiz-grid-sorting .ordering .nice-select:after {
+.digitily-grid-sorting .ordering .nice-select:after {
   left: 12px;
   right: auto;
 }
 
-.dibiz-grid-sorting .ordering .nice-select .list .option {
+.digitily-grid-sorting .ordering .nice-select .list .option {
   text-align: right;
   padding-right: 32px;
   padding-left: 25px;
 }
 
-.dibiz-grid-sorting .ordering .nice-select .list .option::before {
+.digitily-grid-sorting .ordering .nice-select .list .option::before {
   right: 10px;
   left: auto;
 }
 
-.dibiz-grid-sorting .ordering label {
+.digitily-grid-sorting .ordering label {
   margin-left: 5px;
   margin-right: 0;
 }
@@ -930,7 +930,7 @@
   padding: 0 15px 0 0;
 }
 
-.widget-area .widget_dibiz_posts_thumb .item .thumb {
+.widget-area .widget_digitily_posts_thumb .item .thumb {
   float: right;
   margin-left: 15px;
   margin-right: 0;
@@ -1240,21 +1240,21 @@ Responsive CSS
     padding-right: 15px;
     padding-left: 15px;
   }
-  .dibiz-responsive-nav .others-option {
+  .digitily-responsive-nav .others-option {
     left: 65px;
     right: auto;
   }
-  .dibiz-responsive-nav .others-option .option-item {
+  .digitily-responsive-nav .others-option .option-item {
     margin-right: 15px;
     margin-left: 0;
     padding-right: 15px;
     padding-left: 0;
   }
-  .dibiz-responsive-nav .others-option .option-item::before {
+  .digitily-responsive-nav .others-option .option-item::before {
     right: -2px;
     left: auto;
   }
-  .dibiz-responsive-nav .others-option .option-item:first-child {
+  .digitily-responsive-nav .others-option .option-item:first-child {
     margin-right: 0;
     padding-right: 0;
   }
@@ -1354,21 +1354,21 @@ Responsive CSS
     padding-right: 15px;
     padding-left: 15px;
   }
-  .dibiz-responsive-nav .others-option {
+  .digitily-responsive-nav .others-option {
     left: 65px;
     right: auto;
   }
-  .dibiz-responsive-nav .others-option .option-item {
+  .digitily-responsive-nav .others-option .option-item {
     margin-right: 15px;
     margin-left: 0;
     padding-right: 15px;
     padding-left: 0;
   }
-  .dibiz-responsive-nav .others-option .option-item::before {
+  .digitily-responsive-nav .others-option .option-item::before {
     right: -2px;
     left: auto;
   }
-  .dibiz-responsive-nav .others-option .option-item:first-child {
+  .digitily-responsive-nav .others-option .option-item:first-child {
     margin-right: 0;
     padding-right: 0;
   }

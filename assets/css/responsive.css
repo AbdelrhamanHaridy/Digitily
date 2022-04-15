@@ -1131,16 +1131,16 @@
   .page-title-content h1 {
     font-size: 30px;
   }
-  .dibiz-grid-sorting {
+  .digitily-grid-sorting {
     text-align: center;
   }
-  .dibiz-grid-sorting .result-count {
+  .digitily-grid-sorting .result-count {
     margin-bottom: 13px;
   }
-  .dibiz-grid-sorting .ordering {
+  .digitily-grid-sorting .ordering {
     text-align: center;
   }
-  .dibiz-grid-sorting .ordering label {
+  .digitily-grid-sorting .ordering label {
     font-size: 14px;
   }
   .single-products-box .products-content h3 {
@@ -1440,7 +1440,7 @@
   .widget-area .widget_insight ul li a::before {
     left: 15px;
   }
-  .widget-area .widget_dibiz_posts_thumb .item .info .title {
+  .widget-area .widget_digitily_posts_thumb .item .info .title {
     font-size: 15px;
   }
   .widget-area .widget_categories ul li {
@@ -1567,7 +1567,7 @@
   .container {
     max-width: 540px;
   }
-  .dibiz-responsive-nav .container-fluid {
+  .digitily-responsive-nav .container-fluid {
     max-width: 540px;
   }
   .main-banner-content {
@@ -1716,7 +1716,7 @@
     font-size: 16px;
     margin-top: 10px;
   }
-  .dibiz-responsive-nav .others-option {
+  .digitily-responsive-nav .others-option {
     display: -webkit-box !important;
     display: -ms-flexbox !important;
     display: flex !important;
@@ -1724,7 +1724,7 @@
     right: 65px;
     top: -1px;
   }
-  .dibiz-responsive-nav .container-fluid {
+  .digitily-responsive-nav .container-fluid {
     max-width: 720px;
   }
   .others-option-for-responsive {
@@ -2552,11 +2552,11 @@
     padding-top: 20px;
     padding-bottom: 19px;
   }
-  .dibiz-responsive-nav .container-fluid {
+  .digitily-responsive-nav .container-fluid {
     padding-left: 25px;
     padding-right: 25px;
   }
-  .dibiz-responsive-nav .others-option {
+  .digitily-responsive-nav .others-option {
     display: -webkit-box !important;
     display: -ms-flexbox !important;
     display: flex !important;
@@ -2896,7 +2896,7 @@
   .widget-area .widget .widget-title {
     font-size: 21px;
   }
-  .widget-area .widget_dibiz_posts_thumb .item .info .title {
+  .widget-area .widget_digitily_posts_thumb .item .info .title {
     font-size: 15px;
   }
   .widget-area.widget-left-sidebar {
@@ -2959,7 +2959,7 @@
     padding-left: 135px;
     padding-right: 135px;
   }
-  .dibiz-nav .container-fluid {
+  .digitily-nav .container-fluid {
     padding-left: 135px;
     padding-right: 135px;
   }
